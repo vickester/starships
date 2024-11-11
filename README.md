@@ -5,9 +5,10 @@ This is a REST API built with Spring Boot and written in Kotlin that fetches the
 # Getting started
 
 ### Prerequisites
-- **Java 17**
-- **Spring boot 3.3.5** 
-- **Maven 3.9.9**
+- **Java v17**
+- **Kotlin v1.9.25**
+- **Spring boot v3.3.5** 
+- **Maven v3.9.9**
 
 ### Installation 
 Clone this repo to your local machine. Make sure you have all required dependencies installed as mentioned in the list above. 
