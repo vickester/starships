@@ -27,6 +27,7 @@ Now you can visit http://localhost:8080/api/starships to explore the most expens
 This endpoint returns the starships with the default sorting of the most expensive starship first. 
 
 **Request params** 
+
 `limit` - limits the number of starships being returned. Default is 10.  
 
 
